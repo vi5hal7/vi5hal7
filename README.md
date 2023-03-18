@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal gaurav</h1>
 <h3 align="center">A passionate frontend developer</h3>
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif")
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj?pid=ImgDet&rs=1">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vi5hal7&label=Profile%20views&color=0e75b6&style=flat" alt="vi5hal7" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI and ML**
 
-- 💬 Ask me about **AWS, WORDPRESS**
+- 💬 Ask me about **AWS, PYTHON, WORDPRESS**
 
 - 📫 How to reach me **hritickrajj6@gmail.com**
 
