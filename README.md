@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AI and ML**
 
-- 💬 Ask me about **AWS, PYTHON, WORDPRESS**
+- 💬 Ask me about **JAVA, HTML, CSS, JAVASCRIPT, AWS, PYTHON, WORDPRESS**
 
 - 📫 How to reach me **hritickrajj6@gmail.com**
 
